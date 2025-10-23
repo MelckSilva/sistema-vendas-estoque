@@ -12,3 +12,8 @@ def sistema_calculo(a, b, operacion):
             return "Error: Division por cero"
     else:
         return "Operacion no valida"
+    
+    # Comentario agregado para explicar la funcion sós sei que nada sei
+
+    def melck_lindi(x):
+        return x[::-1]
